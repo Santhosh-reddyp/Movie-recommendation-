@@ -1,0 +1,495 @@
+[{
+  "_id": {
+    "$oid": "69dfa6923dbd510e6d14ded1"
+  },
+  "showId": "69dfa1a53a1684f7d7b8cdc8",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa6bb3dbd510e6d14ded2"
+  },
+  "showId": "69dfa1a53a1684f7d7b8cdc9",
+  "seatsBooked": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa7369a912a1ece57f5ac"
+  },
+  "showId": "69dfa1a53a1684f7d7b8cdc8",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa7369a912a1ece57f5ad"
+  },
+  "showId": "69dfa1a53a1684f7d7b8cdc9",
+  "seatsBooked": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa7369a912a1ece57f5ae"
+  },
+  "showId": "69dfa1a53a1684f7d7b8cdca",
+  "seatsBooked": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa7379a912a1ece57f5af"
+  },
+  "showId": "69dfa1a53a1684f7d7b8cdcb",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa7379a912a1ece57f5b0"
+  },
+  "showId": "69dfa1a53a1684f7d7b8cdcc",
+  "seatsBooked": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa7379a912a1ece57f5b1"
+  },
+  "showId": "69dfa1a53a1684f7d7b8cdcd",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa7379a912a1ece57f5b2"
+  },
+  "showId": "69dfa1a53a1684f7d7b8cdce",
+  "seatsBooked": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa7379a912a1ece57f5b3"
+  },
+  "showId": "69dfa1a53a1684f7d7b8cdcf",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa7379a912a1ece57f5b4"
+  },
+  "showId": "69dfa1a53a1684f7d7b8cdd0",
+  "seatsBooked": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa7379a912a1ece57f5b5"
+  },
+  "showId": "69dfa1a53a1684f7d7b8cdd1",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa7379a912a1ece57f5b6"
+  },
+  "showId": "69dfa1a53a1684f7d7b8cdd2",
+  "seatsBooked": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa7379a912a1ece57f5b7"
+  },
+  "showId": "69dfa1a53a1684f7d7b8cdd3",
+  "seatsBooked": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa7379a912a1ece57f5b8"
+  },
+  "showId": "69dfa1a53a1684f7d7b8cdd4",
+  "seatsBooked": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa7379a912a1ece57f5b9"
+  },
+  "showId": "69dfa1a53a1684f7d7b8cdd5",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa7379a912a1ece57f5ba"
+  },
+  "showId": "69dfa1a53a1684f7d7b8cdd6",
+  "seatsBooked": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa7379a912a1ece57f5bb"
+  },
+  "showId": "69dfa1a53a1684f7d7b8cdd7",
+  "seatsBooked": 6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb7137303c5f4498bd663"
+  },
+  "userId": "testUser",
+  "showId": "69dfb648579f081e501ad47c",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb8f57303c5f4498bd664"
+  },
+  "userId": "testUser",
+  "showId": "69dfb648579f081e501ad47c",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfba6e7303c5f4498bd665"
+  },
+  "userId": "testUser",
+  "showId": "69dfb648579f081e501ad47e",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfbb937303c5f4498bd666"
+  },
+  "userId": "testUser",
+  "showId": "69dfb648579f081e501ad47c",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfbe14550a953092a1fc95"
+  },
+  "userId": "testUser",
+  "showId": "69dfb648579f081e501ad47c",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1797b141e149f38b4f"
+  },
+  "userId": "testUser",
+  "showId": "69dfa1a53a1684f7d7b8cdc8",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1797b141e149f38b50"
+  },
+  "userId": "testUser",
+  "showId": "69dfa1a53a1684f7d7b8cdc9",
+  "seatsBooked": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1797b141e149f38b51"
+  },
+  "userId": "testUser",
+  "showId": "69dfa1a53a1684f7d7b8cdca",
+  "seatsBooked": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1797b141e149f38b52"
+  },
+  "userId": "testUser",
+  "showId": "69dfa1a53a1684f7d7b8cdcb",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1797b141e149f38b53"
+  },
+  "userId": "testUser",
+  "showId": "69dfa1a53a1684f7d7b8cdcc",
+  "seatsBooked": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1797b141e149f38b54"
+  },
+  "userId": "testUser",
+  "showId": "69dfa1a53a1684f7d7b8cdcd",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1797b141e149f38b55"
+  },
+  "userId": "testUser",
+  "showId": "69dfa1a53a1684f7d7b8cdce",
+  "seatsBooked": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1797b141e149f38b56"
+  },
+  "userId": "testUser",
+  "showId": "69dfa1a53a1684f7d7b8cdcf",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1897b141e149f38b57"
+  },
+  "userId": "testUser",
+  "showId": "69dfa1a53a1684f7d7b8cdd0",
+  "seatsBooked": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1897b141e149f38b58"
+  },
+  "userId": "testUser",
+  "showId": "69dfa1a53a1684f7d7b8cdd1",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1897b141e149f38b59"
+  },
+  "userId": "testUser",
+  "showId": "69dfa1a53a1684f7d7b8cdd2",
+  "seatsBooked": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1897b141e149f38b5a"
+  },
+  "userId": "testUser",
+  "showId": "69dfa1a53a1684f7d7b8cdd3",
+  "seatsBooked": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1897b141e149f38b5b"
+  },
+  "userId": "testUser",
+  "showId": "69dfa1a53a1684f7d7b8cdd4",
+  "seatsBooked": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1897b141e149f38b5c"
+  },
+  "userId": "testUser",
+  "showId": "69dfa1a53a1684f7d7b8cdd5",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1897b141e149f38b5d"
+  },
+  "userId": "testUser",
+  "showId": "69dfa1a53a1684f7d7b8cdd6",
+  "seatsBooked": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1897b141e149f38b5e"
+  },
+  "userId": "testUser",
+  "showId": "69dfa1a53a1684f7d7b8cdd7",
+  "seatsBooked": 6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfce2197b141e149f38bae"
+  },
+  "userId": "testUser",
+  "showId": "69dfcda697b141e149f38ba1",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfce71ea9f783a5708b632"
+  },
+  "userId": "testUser",
+  "showId": "69dfcda697b141e149f38ba2",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0a7934eff3135a415e67f"
+  },
+  "userId": "testUser",
+  "showId": "69dfcda697b141e149f38ba1",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0ae299e1db2187a542f15"
+  },
+  "userId": "testUser",
+  "showId": "69dfcda697b141e149f38ba2",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bde363840077671336ba"
+  },
+  "userId": "testUser",
+  "showId": "69e0bcf56384007767133678",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c0966384007767133724"
+  },
+  "userId": "testUser",
+  "showId": "69e0c08a6384007767133701",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c0b66384007767133725"
+  },
+  "userId": "testUser",
+  "showId": "69e0c08a6384007767133701",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c18e6384007767133726"
+  },
+  "userId": "testUser",
+  "showId": "69e0c08a6384007767133701",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c1aa6384007767133727"
+  },
+  "userId": "testUser",
+  "showId": "69e0c08a6384007767133701",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c1e96384007767133728"
+  },
+  "userId": "testUser",
+  "showId": "69e0c08a6384007767133701",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c1fc6384007767133729"
+  },
+  "userId": "testUser",
+  "showId": "69e0c08a6384007767133701",
+  "seatsBooked": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c204638400776713372a"
+  },
+  "userId": "testUser",
+  "showId": "69e0c08a6384007767133701",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c2ae638400776713372b"
+  },
+  "userId": "testUser",
+  "showId": "69e0c08a6384007767133701",
+  "seatsBooked": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c2cd638400776713372c"
+  },
+  "userId": "testUser",
+  "showId": "69e0c08a6384007767133706",
+  "seatsBooked": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c3aa638400776713372d"
+  },
+  "userId": "testUser",
+  "showId": "69e0c08a6384007767133704",
+  "seatsBooked": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c6c2638400776713374e"
+  },
+  "userId": "testUser",
+  "showId": "69e0c65e6384007767133746",
+  "seatsBooked": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c8cc638400776713374f"
+  },
+  "userId": "testUser",
+  "showId": "69e0c08a6384007767133707",
+  "seatsBooked": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c9616384007767133750"
+  },
+  "userId": "testUser",
+  "showId": "69e0c08a6384007767133707",
+  "seatsBooked": 3,
+  "__v": 0
+}]

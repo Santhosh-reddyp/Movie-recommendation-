@@ -1,0 +1,279 @@
+[{
+  "_id": {
+    "$oid": "69df304f411e746f3ae36c03"
+  },
+  "name": "PVR Cinemas",
+  "location": "Vijayawada",
+  "screens": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69df304f411e746f3ae36c04"
+  },
+  "name": "INOX",
+  "location": "Vijayawada",
+  "screens": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69df304f411e746f3ae36c05"
+  },
+  "name": "Asian Cinemas",
+  "location": "Guntur",
+  "screens": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69df304f411e746f3ae36c06"
+  },
+  "name": "Siva Cinemas",
+  "location": "Guntur",
+  "screens": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb5"
+  },
+  "name": "PVR Cinemas",
+  "location": "Vijayawada",
+  "screens": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb6"
+  },
+  "name": "INOX",
+  "location": "Vijayawada",
+  "screens": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb7"
+  },
+  "name": "Asian Cinemas",
+  "location": "Guntur",
+  "screens": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb8"
+  },
+  "name": "Siva Cinemas",
+  "location": "Guntur",
+  "screens": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1b97b141e149f38b5f"
+  },
+  "name": "PVR Cinemas",
+  "location": "Vijayawada",
+  "screens": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1b97b141e149f38b60"
+  },
+  "name": "INOX",
+  "location": "Vijayawada",
+  "screens": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1b97b141e149f38b61"
+  },
+  "name": "Asian Cinemas",
+  "location": "Guntur",
+  "screens": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1b97b141e149f38b62"
+  },
+  "name": "Siva Cinemas",
+  "location": "Guntur",
+  "screens": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0b8ff6384007767133607"
+  },
+  "name": "PVR Cinemas",
+  "location": "Vijayawada",
+  "screens": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0b8ff6384007767133608"
+  },
+  "name": "INOX",
+  "location": "Vijayawada",
+  "screens": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0b8ff6384007767133609"
+  },
+  "name": "Asian Cinemas",
+  "location": "Guntur",
+  "screens": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0b8ff638400776713360a"
+  },
+  "name": "Siva Cinemas",
+  "location": "Guntur",
+  "screens": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0ba73638400776713360b"
+  },
+  "name": "PVR Cinemas",
+  "location": "Vijayawada",
+  "screens": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0ba73638400776713360c"
+  },
+  "name": "INOX",
+  "location": "Vijayawada",
+  "screens": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0ba73638400776713360d"
+  },
+  "name": "Asian Cinemas",
+  "location": "Guntur",
+  "screens": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0ba73638400776713360e"
+  },
+  "name": "Siva Cinemas",
+  "location": "Guntur",
+  "screens": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0ba73638400776713360f"
+  },
+  "name": "Cinepolis",
+  "location": "Vijayawada",
+  "screens": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0ba736384007767133610"
+  },
+  "name": "Miraj Cinemas",
+  "location": "Guntur",
+  "screens": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0ba736384007767133611"
+  },
+  "name": "Sri Venkateswara Theatre",
+  "location": "Tenali",
+  "screens": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0ba736384007767133612"
+  },
+  "name": "Lakshmi Talkies",
+  "location": "Tenali",
+  "screens": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0ba736384007767133613"
+  },
+  "name": "Sai Krishna Multiplex",
+  "location": "Guntur",
+  "screens": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0ba736384007767133614"
+  },
+  "name": "Sree Rama Cinema Hall",
+  "location": "Vijayawada",
+  "screens": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0ba736384007767133615"
+  },
+  "name": "Galaxy Multiplex",
+  "location": "Guntur",
+  "screens": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0ba736384007767133616"
+  },
+  "name": "Central Mall Cinemas",
+  "location": "Vijayawada",
+  "screens": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0ba736384007767133617"
+  },
+  "name": "Urban Screens",
+  "location": "Guntur",
+  "screens": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0ba736384007767133618"
+  },
+  "name": "Platinum Theatres",
+  "location": "Vijayawada",
+  "screens": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0ba736384007767133619"
+  },
+  "name": "Aruna Theatre",
+  "location": "Guntur",
+  "screens": 2,
+  "__v": 0
+}]

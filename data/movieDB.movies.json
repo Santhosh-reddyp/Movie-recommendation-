@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "69e0bb036384007767133665"
+  },
+  "title": "RRR",
+  "description": "Epic action drama",
+  "duration": "3h 5m",
+  "language": "Telugu",
+  "genre": "Action",
+  "image": "https://www.mentinfuga.com/wp-content/uploads/2022/09/N.T.-Rama-Rao-Jr.-e-Ram-Charan-Teja-in-RRR-di-S.S.-Rajamouli-2022-1200x1200.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bb036384007767133666"
+  },
+  "title": "Kalki 2898 AD",
+  "description": "Sci-fi futuristic action",
+  "duration": "2h 50m",
+  "language": "Telugu",
+  "genre": "Sci-Fi",
+  "image": "https://m.media-amazon.com/images/M/MV5BMTM3ZGUwYTEtZTI5NS00ZmMyLTk2YmQtMWU4YjlhZTI3NjRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bb036384007767133667"
+  },
+  "title": "Pushpa 2",
+  "description": "Action crime drama",
+  "duration": "2h 45m",
+  "language": "Telugu",
+  "genre": "Action",
+  "image": "https://images.filmibeat.com/ph-big/2024/10/pushpa-2-movie-cast-crew-salaries-revealed1728390474_0.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bb036384007767133668"
+  },
+  "title": "Salaar",
+  "description": "Mass action thriller",
+  "duration": "2h 55m",
+  "language": "Telugu",
+  "genre": "Action",
+  "image": "https://cdn.gulte.com/wp-content/uploads/2023/11/F-tQWpkWAAAU9aY-scaled.jpeg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bb036384007767133669"
+  },
+  "title": "Leo",
+  "description": "Action thriller",
+  "duration": "2h 30m",
+  "language": "Tamil",
+  "genre": "Action",
+  "image": "https://static.moviecrow.com/gallery/20231014/221692-leo%20po.jpeg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bb03638400776713366a"
+  },
+  "title": "Jawan",
+  "description": "Action thriller",
+  "duration": "2h 45m",
+  "language": "Hindi",
+  "genre": "Action",
+  "image": "https://images.filmibeat.com/webp/ph-big/2023/08/jawan_16914785252.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bb03638400776713366b"
+  },
+  "title": "Pathaan",
+  "description": "Spy action movie",
+  "duration": "2h 30m",
+  "language": "Hindi",
+  "genre": "Action",
+  "image": "https://wallpaperaccess.com/full/8641597.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bb03638400776713366c"
+  },
+  "title": "Animal",
+  "description": "Intense action drama",
+  "duration": "3h",
+  "language": "Hindi",
+  "genre": "Drama",
+  "image": "https://wallpaperaccess.com/full/12247143.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bb03638400776713366d"
+  },
+  "title": "Dunki",
+  "description": "Comedy drama",
+  "duration": "2h 40m",
+  "language": "Hindi",
+  "genre": "Comedy",
+  "image": "https://www.filmiforest.com/img/movies/2422/dunki-photo-58458.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bb03638400776713366e"
+  },
+  "title": "War 2",
+  "description": "Upcoming spy action",
+  "duration": "2h 35m",
+  "language": "Hindi",
+  "genre": "Action",
+  "image": "https://static.moviecrow.com/gallery/20250626/247935-wa34.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bb03638400776713366f"
+  },
+  "title": "Avengers: Endgame",
+  "description": "Superhero action",
+  "duration": "3h 2m",
+  "language": "English",
+  "genre": "Superhero",
+  "image": "https://images.alphacoders.com/111/thumb-1920-1119553.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bb036384007767133670"
+  },
+  "title": "Spider-Man: No Way Home",
+  "description": "Marvel superhero",
+  "duration": "2h 28m",
+  "language": "English",
+  "genre": "Superhero",
+  "image": "https://images7.alphacoders.com/132/thumb-1920-1322340.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bb036384007767133671"
+  },
+  "title": "Oppenheimer",
+  "description": "Historical drama",
+  "duration": "3h",
+  "language": "English",
+  "genre": "Drama",
+  "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/05/oppenheimer-poster.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bb036384007767133672"
+  },
+  "title": "Dune Part Two",
+  "description": "Sci-fi epic",
+  "duration": "2h 45m",
+  "language": "English",
+  "genre": "Sci-Fi",
+  "image": "https://images.wallpapersden.com/image/download/4k-poster-of-dune-2-movie_bmdoaWeUmZqaraWkpJRobWllrWdma2U.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bb036384007767133673"
+  },
+  "title": "Mission Impossible Dead Reckoning",
+  "description": "Action spy thriller",
+  "duration": "2h 43m",
+  "language": "English",
+  "genre": "Action",
+  "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/05/mission-impossible-dead-reckoning-poster.jpg",
+  "__v": 0
+}]

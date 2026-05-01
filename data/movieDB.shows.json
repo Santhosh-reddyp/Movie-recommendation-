@@ -1,0 +1,5520 @@
+[{
+  "_id": {
+    "$oid": "69dfa1a53a1684f7d7b8cdc8"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdb9"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb5"
+  },
+  "showTime": "10:00 AM",
+  "price": 200,
+  "seatsAvailable": 94,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa1a53a1684f7d7b8cdc9"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdb9"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb6"
+  },
+  "showTime": "2:00 PM",
+  "price": 250,
+  "seatsAvailable": 111,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa1a53a1684f7d7b8cdca"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdba"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb7"
+  },
+  "showTime": "11:00 AM",
+  "price": 180,
+  "seatsAvailable": 88,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa1a53a1684f7d7b8cdcb"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdbb"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb8"
+  },
+  "showTime": "1:00 PM",
+  "price": 200,
+  "seatsAvailable": 91,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa1a53a1684f7d7b8cdcc"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdbc"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb5"
+  },
+  "showTime": "4:00 PM",
+  "price": 220,
+  "seatsAvailable": 102,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa1a53a1684f7d7b8cdcd"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdbd"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb6"
+  },
+  "showTime": "6:00 PM",
+  "price": 230,
+  "seatsAvailable": 96,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa1a53a1684f7d7b8cdce"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdbe"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb7"
+  },
+  "showTime": "5:00 PM",
+  "price": 240,
+  "seatsAvailable": 114,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa1a53a1684f7d7b8cdcf"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdbf"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb8"
+  },
+  "showTime": "7:00 PM",
+  "price": 210,
+  "seatsAvailable": 96,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa1a53a1684f7d7b8cdd0"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdc0"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb5"
+  },
+  "showTime": "8:30 PM",
+  "price": 250,
+  "seatsAvailable": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa1a53a1684f7d7b8cdd1"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdc1"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb6"
+  },
+  "showTime": "3:00 PM",
+  "price": 200,
+  "seatsAvailable": 86,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa1a53a1684f7d7b8cdd2"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdc2"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb7"
+  },
+  "showTime": "9:00 PM",
+  "price": 260,
+  "seatsAvailable": 132,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa1a53a1684f7d7b8cdd3"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdc3"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb8"
+  },
+  "showTime": "12:00 PM",
+  "price": 180,
+  "seatsAvailable": 98,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa1a53a1684f7d7b8cdd4"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdc4"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb5"
+  },
+  "showTime": "2:30 PM",
+  "price": 220,
+  "seatsAvailable": 104,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa1a53a1684f7d7b8cdd5"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdc5"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb6"
+  },
+  "showTime": "5:30 PM",
+  "price": 240,
+  "seatsAvailable": 96,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa1a53a1684f7d7b8cdd6"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdc6"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb7"
+  },
+  "showTime": "6:30 PM",
+  "price": 230,
+  "seatsAvailable": 112,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfa1a53a1684f7d7b8cdd7"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdc7"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb8"
+  },
+  "showTime": "9:30 PM",
+  "price": 260,
+  "seatsAvailable": 138,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb038a94cb6d1e1f7d20a"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdb9"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb5"
+  },
+  "showTime": "10:00 AM",
+  "price": 200,
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb038a94cb6d1e1f7d20b"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdb9"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb6"
+  },
+  "showTime": "2:00 PM",
+  "price": 250,
+  "seatsAvailable": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb038a94cb6d1e1f7d20c"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdba"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb7"
+  },
+  "showTime": "11:00 AM",
+  "price": 180,
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb038a94cb6d1e1f7d20d"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdbb"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb8"
+  },
+  "showTime": "1:00 PM",
+  "price": 200,
+  "seatsAvailable": 95,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb038a94cb6d1e1f7d20e"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdbc"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb5"
+  },
+  "showTime": "4:00 PM",
+  "price": 220,
+  "seatsAvailable": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb038a94cb6d1e1f7d20f"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdbd"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb6"
+  },
+  "showTime": "6:00 PM",
+  "price": 230,
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb038a94cb6d1e1f7d210"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdbe"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb7"
+  },
+  "showTime": "5:00 PM",
+  "price": 240,
+  "seatsAvailable": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb038a94cb6d1e1f7d211"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdbf"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb8"
+  },
+  "showTime": "7:00 PM",
+  "price": 210,
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb038a94cb6d1e1f7d212"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdc0"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb5"
+  },
+  "showTime": "8:30 PM",
+  "price": 250,
+  "seatsAvailable": 130,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb038a94cb6d1e1f7d213"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdc1"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb6"
+  },
+  "showTime": "3:00 PM",
+  "price": 200,
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb038a94cb6d1e1f7d214"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdc2"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb7"
+  },
+  "showTime": "9:00 PM",
+  "price": 260,
+  "seatsAvailable": 140,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb038a94cb6d1e1f7d215"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdc3"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb8"
+  },
+  "showTime": "12:00 PM",
+  "price": 180,
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb038a94cb6d1e1f7d216"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdc4"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb5"
+  },
+  "showTime": "2:30 PM",
+  "price": 220,
+  "seatsAvailable": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb038a94cb6d1e1f7d217"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdc5"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb6"
+  },
+  "showTime": "5:30 PM",
+  "price": 240,
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb038a94cb6d1e1f7d218"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdc6"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb7"
+  },
+  "showTime": "6:30 PM",
+  "price": 230,
+  "seatsAvailable": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb038a94cb6d1e1f7d219"
+  },
+  "movieId": {
+    "$oid": "69dfa1433a1684f7d7b8cdc7"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb8"
+  },
+  "showTime": "9:30 PM",
+  "price": 260,
+  "seatsAvailable": 150,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb648579f081e501ad47b"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad46c"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb5"
+  },
+  "showTime": "10:00 AM",
+  "price": 200,
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb648579f081e501ad47c"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad46d"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb6"
+  },
+  "showTime": "2:00 PM",
+  "price": 250,
+  "seatsAvailable": 112,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb648579f081e501ad47d"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad46e"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb7"
+  },
+  "showTime": "11:00 AM",
+  "price": 180,
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb648579f081e501ad47e"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad46f"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb8"
+  },
+  "showTime": "1:00 PM",
+  "price": 200,
+  "seatsAvailable": 93,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb648579f081e501ad47f"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad470"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb5"
+  },
+  "showTime": "4:00 PM",
+  "price": 220,
+  "seatsAvailable": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb648579f081e501ad480"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad471"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb6"
+  },
+  "showTime": "6:00 PM",
+  "price": 230,
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb648579f081e501ad481"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad472"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb7"
+  },
+  "showTime": "5:00 PM",
+  "price": 240,
+  "seatsAvailable": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb648579f081e501ad482"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad473"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb8"
+  },
+  "showTime": "7:00 PM",
+  "price": 210,
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb648579f081e501ad483"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad474"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb5"
+  },
+  "showTime": "8:30 PM",
+  "price": 250,
+  "seatsAvailable": 130,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb648579f081e501ad484"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad475"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb6"
+  },
+  "showTime": "3:00 PM",
+  "price": 200,
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb648579f081e501ad485"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad476"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb7"
+  },
+  "showTime": "9:00 PM",
+  "price": 260,
+  "seatsAvailable": 140,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb648579f081e501ad486"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad477"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb8"
+  },
+  "showTime": "12:00 PM",
+  "price": 180,
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb648579f081e501ad487"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad478"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb5"
+  },
+  "showTime": "2:30 PM",
+  "price": 220,
+  "seatsAvailable": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb648579f081e501ad488"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad479"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb6"
+  },
+  "showTime": "5:30 PM",
+  "price": 240,
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfb648579f081e501ad489"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad47a"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb7"
+  },
+  "showTime": "6:30 PM",
+  "price": 230,
+  "seatsAvailable": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1097b141e149f38b40"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad46c"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb5"
+  },
+  "showTime": "10:00 AM",
+  "price": 200,
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1097b141e149f38b41"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad46d"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb6"
+  },
+  "showTime": "2:00 PM",
+  "price": 250,
+  "seatsAvailable": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1097b141e149f38b42"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad46e"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb7"
+  },
+  "showTime": "11:00 AM",
+  "price": 180,
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1097b141e149f38b43"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad46f"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb8"
+  },
+  "showTime": "1:00 PM",
+  "price": 200,
+  "seatsAvailable": 95,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1097b141e149f38b44"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad470"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb5"
+  },
+  "showTime": "4:00 PM",
+  "price": 220,
+  "seatsAvailable": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1097b141e149f38b45"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad471"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb6"
+  },
+  "showTime": "6:00 PM",
+  "price": 230,
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1097b141e149f38b46"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad472"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb7"
+  },
+  "showTime": "5:00 PM",
+  "price": 240,
+  "seatsAvailable": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1097b141e149f38b47"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad473"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb8"
+  },
+  "showTime": "7:00 PM",
+  "price": 210,
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1097b141e149f38b48"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad474"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb5"
+  },
+  "showTime": "8:30 PM",
+  "price": 250,
+  "seatsAvailable": 130,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1097b141e149f38b49"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad475"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb6"
+  },
+  "showTime": "3:00 PM",
+  "price": 200,
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1097b141e149f38b4a"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad476"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb7"
+  },
+  "showTime": "9:00 PM",
+  "price": 260,
+  "seatsAvailable": 140,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1097b141e149f38b4b"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad477"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb8"
+  },
+  "showTime": "12:00 PM",
+  "price": 180,
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1097b141e149f38b4c"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad478"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb5"
+  },
+  "showTime": "2:30 PM",
+  "price": 220,
+  "seatsAvailable": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1097b141e149f38b4d"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad479"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb6"
+  },
+  "showTime": "5:30 PM",
+  "price": 240,
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcb1097b141e149f38b4e"
+  },
+  "movieId": {
+    "$oid": "69dfb321579f081e501ad47a"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb7"
+  },
+  "showTime": "6:30 PM",
+  "price": 230,
+  "seatsAvailable": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcda697b141e149f38b9f"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b90"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb5"
+  },
+  "showTime": "10:00 AM",
+  "price": 200,
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcda697b141e149f38ba0"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b91"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb6"
+  },
+  "showTime": "2:00 PM",
+  "price": 250,
+  "seatsAvailable": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcda697b141e149f38ba1"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b92"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb7"
+  },
+  "showTime": "11:00 AM",
+  "price": 180,
+  "seatsAvailable": 86,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcda697b141e149f38ba2"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b93"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb8"
+  },
+  "showTime": "1:00 PM",
+  "price": 200,
+  "seatsAvailable": 91,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcda697b141e149f38ba3"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b94"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb5"
+  },
+  "showTime": "4:00 PM",
+  "price": 220,
+  "seatsAvailable": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcda697b141e149f38ba4"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b95"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb6"
+  },
+  "showTime": "6:00 PM",
+  "price": 230,
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcda697b141e149f38ba5"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b96"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb7"
+  },
+  "showTime": "5:00 PM",
+  "price": 240,
+  "seatsAvailable": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcda697b141e149f38ba6"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b97"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb8"
+  },
+  "showTime": "7:00 PM",
+  "price": 210,
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcda697b141e149f38ba7"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b98"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb5"
+  },
+  "showTime": "8:30 PM",
+  "price": 250,
+  "seatsAvailable": 130,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcda697b141e149f38ba8"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b99"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb6"
+  },
+  "showTime": "3:00 PM",
+  "price": 200,
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcda697b141e149f38ba9"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b9a"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb7"
+  },
+  "showTime": "9:00 PM",
+  "price": 260,
+  "seatsAvailable": 140,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcda697b141e149f38baa"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b9b"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb8"
+  },
+  "showTime": "12:00 PM",
+  "price": 180,
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcda697b141e149f38bab"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b9c"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb5"
+  },
+  "showTime": "2:30 PM",
+  "price": 220,
+  "seatsAvailable": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcda697b141e149f38bac"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b9d"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb6"
+  },
+  "showTime": "5:30 PM",
+  "price": 240,
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69dfcda697b141e149f38bad"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b9e"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb7"
+  },
+  "showTime": "6:30 PM",
+  "price": 230,
+  "seatsAvailable": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0b4ba753c2dda777d6c7f"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b90"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb5"
+  },
+  "showTime": "10:00 AM",
+  "price": 200,
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0b4ba753c2dda777d6c80"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b91"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb6"
+  },
+  "showTime": "2:00 PM",
+  "price": 250,
+  "seatsAvailable": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0b4ba753c2dda777d6c81"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b92"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb7"
+  },
+  "showTime": "11:00 AM",
+  "price": 180,
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0b4ba753c2dda777d6c82"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b93"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb8"
+  },
+  "showTime": "1:00 PM",
+  "price": 200,
+  "seatsAvailable": 95,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0b4ba753c2dda777d6c83"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b94"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb5"
+  },
+  "showTime": "4:00 PM",
+  "price": 220,
+  "seatsAvailable": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0b4ba753c2dda777d6c84"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b95"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb6"
+  },
+  "showTime": "6:00 PM",
+  "price": 230,
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0b4ba753c2dda777d6c85"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b96"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb7"
+  },
+  "showTime": "5:00 PM",
+  "price": 240,
+  "seatsAvailable": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0b4ba753c2dda777d6c86"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b97"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb8"
+  },
+  "showTime": "7:00 PM",
+  "price": 210,
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0b4ba753c2dda777d6c87"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b98"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb5"
+  },
+  "showTime": "8:30 PM",
+  "price": 250,
+  "seatsAvailable": 130,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0b4ba753c2dda777d6c88"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b99"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb6"
+  },
+  "showTime": "3:00 PM",
+  "price": 200,
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0b4ba753c2dda777d6c89"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b9a"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb7"
+  },
+  "showTime": "9:00 PM",
+  "price": 260,
+  "seatsAvailable": 140,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0b4ba753c2dda777d6c8a"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b9b"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb8"
+  },
+  "showTime": "12:00 PM",
+  "price": 180,
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0b4ba753c2dda777d6c8b"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b9c"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb5"
+  },
+  "showTime": "2:30 PM",
+  "price": 220,
+  "seatsAvailable": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0b4ba753c2dda777d6c8c"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b9d"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb6"
+  },
+  "showTime": "5:30 PM",
+  "price": 240,
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0b4ba753c2dda777d6c8d"
+  },
+  "movieId": {
+    "$oid": "69dfcbf097b141e149f38b9e"
+  },
+  "theatreId": {
+    "$oid": "69dfa13d3a1684f7d7b8cdb7"
+  },
+  "showTime": "6:30 PM",
+  "price": 230,
+  "seatsAvailable": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf56384007767133674"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133665"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360b"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:00 AM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 250,
+    "silver": 150
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf56384007767133675"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133665"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360c"
+  },
+  "screen": "Screen 2",
+  "showTime": "2:00 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf56384007767133676"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133665"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360d"
+  },
+  "screen": "Screen 1",
+  "showTime": "6:00 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 320,
+    "silver": 190
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf56384007767133677"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133666"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360e"
+  },
+  "screen": "Screen 1",
+  "showTime": "11:00 AM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 240,
+    "silver": 140
+  },
+  "seatsAvailable": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf56384007767133678"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133666"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360f"
+  },
+  "screen": "Screen 2",
+  "showTime": "3:00 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 280,
+    "silver": 160
+  },
+  "seatsAvailable": 98,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf56384007767133679"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133666"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133610"
+  },
+  "screen": "Screen 1",
+  "showTime": "7:00 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 95,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf5638400776713367a"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133667"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133611"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:30 AM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 260,
+    "silver": 150
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf5638400776713367b"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133667"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133612"
+  },
+  "screen": "Screen 2",
+  "showTime": "1:30 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 290,
+    "silver": 170
+  },
+  "seatsAvailable": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf5638400776713367c"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133667"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133613"
+  },
+  "screen": "Screen 3",
+  "showTime": "6:30 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 320,
+    "silver": 190
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf5638400776713367d"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133668"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133614"
+  },
+  "screen": "Screen 1",
+  "showTime": "9:30 AM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 270,
+    "silver": 160
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf5638400776713367e"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133668"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133615"
+  },
+  "screen": "Screen 2",
+  "showTime": "3:30 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 310,
+    "silver": 190
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf5638400776713367f"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133668"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133616"
+  },
+  "screen": "Screen 1",
+  "showTime": "8:30 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 340,
+    "silver": 200
+  },
+  "seatsAvailable": 95,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf56384007767133680"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133669"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133617"
+  },
+  "screen": "Screen 1",
+  "showTime": "12:00 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 250,
+    "silver": 150
+  },
+  "seatsAvailable": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf56384007767133681"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133669"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133618"
+  },
+  "screen": "Screen 2",
+  "showTime": "4:00 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 280,
+    "silver": 170
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf56384007767133682"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133669"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133619"
+  },
+  "screen": "Screen 1",
+  "showTime": "9:00 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf56384007767133683"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366a"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360b"
+  },
+  "screen": "Screen 3",
+  "showTime": "10:00 AM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 260,
+    "silver": 150
+  },
+  "seatsAvailable": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf56384007767133684"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366a"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360c"
+  },
+  "screen": "Screen 1",
+  "showTime": "5:00 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf56384007767133685"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366a"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360d"
+  },
+  "screen": "Screen 2",
+  "showTime": "9:30 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 320,
+    "silver": 190
+  },
+  "seatsAvailable": 95,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf56384007767133686"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366b"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360e"
+  },
+  "screen": "Screen 1",
+  "showTime": "11:00 AM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 250,
+    "silver": 140
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf56384007767133687"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366b"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360f"
+  },
+  "screen": "Screen 2",
+  "showTime": "6:00 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf56384007767133688"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366b"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133610"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:00 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 330,
+    "silver": 200
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf56384007767133689"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366c"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133611"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:30 AM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 260,
+    "silver": 150
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf5638400776713368a"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366c"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133612"
+  },
+  "screen": "Screen 2",
+  "showTime": "4:00 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 290,
+    "silver": 170
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf5638400776713368b"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366c"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133613"
+  },
+  "screen": "Screen 3",
+  "showTime": "9:30 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 320,
+    "silver": 190
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf5638400776713368c"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366d"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133614"
+  },
+  "screen": "Screen 1",
+  "showTime": "11:00 AM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 240,
+    "silver": 140
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf5638400776713368d"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366d"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133615"
+  },
+  "screen": "Screen 2",
+  "showTime": "3:00 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 270,
+    "silver": 160
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf5638400776713368e"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366d"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133616"
+  },
+  "screen": "Screen 1",
+  "showTime": "7:30 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf5638400776713368f"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366e"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133617"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:00 AM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 280,
+    "silver": 160
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf56384007767133690"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366e"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133618"
+  },
+  "screen": "Screen 2",
+  "showTime": "4:30 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 310,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf56384007767133691"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366e"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133619"
+  },
+  "screen": "Screen 1",
+  "showTime": "9:00 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 340,
+    "silver": 200
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf56384007767133692"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366f"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360b"
+  },
+  "screen": "Screen 1",
+  "showTime": "12:00 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 350,
+    "silver": 200
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf56384007767133693"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133670"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360c"
+  },
+  "screen": "Screen 2",
+  "showTime": "3:30 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 320,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf56384007767133694"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133671"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360d"
+  },
+  "screen": "Screen 1",
+  "showTime": "7:00 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 330,
+    "silver": 190
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf56384007767133695"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133672"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360e"
+  },
+  "screen": "Screen 2",
+  "showTime": "8:30 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 340,
+    "silver": 200
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bcf56384007767133696"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133673"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360f"
+  },
+  "screen": "Screen 1",
+  "showTime": "9:30 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 360,
+    "silver": 210
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd636384007767133697"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133665"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360b"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:00 AM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 250,
+    "silver": 150
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd636384007767133698"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133665"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360c"
+  },
+  "screen": "Screen 2",
+  "showTime": "2:00 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd636384007767133699"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133665"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360d"
+  },
+  "screen": "Screen 1",
+  "showTime": "6:00 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 320,
+    "silver": 190
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd63638400776713369a"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133666"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360e"
+  },
+  "screen": "Screen 1",
+  "showTime": "11:00 AM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 240,
+    "silver": 140
+  },
+  "seatsAvailable": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd63638400776713369b"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133666"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360f"
+  },
+  "screen": "Screen 2",
+  "showTime": "3:00 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 280,
+    "silver": 160
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd63638400776713369c"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133666"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133610"
+  },
+  "screen": "Screen 1",
+  "showTime": "7:00 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 95,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd63638400776713369d"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133667"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133611"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:30 AM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 260,
+    "silver": 150
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd63638400776713369e"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133667"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133612"
+  },
+  "screen": "Screen 2",
+  "showTime": "1:30 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 290,
+    "silver": 170
+  },
+  "seatsAvailable": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd63638400776713369f"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133667"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133613"
+  },
+  "screen": "Screen 3",
+  "showTime": "6:30 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 320,
+    "silver": 190
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd6363840077671336a0"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133668"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133614"
+  },
+  "screen": "Screen 1",
+  "showTime": "9:30 AM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 270,
+    "silver": 160
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd6363840077671336a1"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133668"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133615"
+  },
+  "screen": "Screen 2",
+  "showTime": "3:30 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 310,
+    "silver": 190
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd6363840077671336a2"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133668"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133616"
+  },
+  "screen": "Screen 1",
+  "showTime": "8:30 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 340,
+    "silver": 200
+  },
+  "seatsAvailable": 95,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd6363840077671336a3"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133669"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133617"
+  },
+  "screen": "Screen 1",
+  "showTime": "12:00 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 250,
+    "silver": 150
+  },
+  "seatsAvailable": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd6363840077671336a4"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133669"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133618"
+  },
+  "screen": "Screen 2",
+  "showTime": "4:00 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 280,
+    "silver": 170
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd6363840077671336a5"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133669"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133619"
+  },
+  "screen": "Screen 1",
+  "showTime": "9:00 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd6363840077671336a6"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366a"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360b"
+  },
+  "screen": "Screen 3",
+  "showTime": "10:00 AM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 260,
+    "silver": 150
+  },
+  "seatsAvailable": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd6363840077671336a7"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366a"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360c"
+  },
+  "screen": "Screen 1",
+  "showTime": "5:00 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd6363840077671336a8"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366a"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360d"
+  },
+  "screen": "Screen 2",
+  "showTime": "9:30 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 320,
+    "silver": 190
+  },
+  "seatsAvailable": 95,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd6363840077671336a9"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366b"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360e"
+  },
+  "screen": "Screen 1",
+  "showTime": "11:00 AM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 250,
+    "silver": 140
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd6363840077671336aa"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366b"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360f"
+  },
+  "screen": "Screen 2",
+  "showTime": "6:00 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd6363840077671336ab"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366b"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133610"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:00 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 330,
+    "silver": 200
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd6363840077671336ac"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366c"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133611"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:30 AM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 260,
+    "silver": 150
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd6363840077671336ad"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366c"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133612"
+  },
+  "screen": "Screen 2",
+  "showTime": "4:00 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 290,
+    "silver": 170
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd6363840077671336ae"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366c"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133613"
+  },
+  "screen": "Screen 3",
+  "showTime": "9:30 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 320,
+    "silver": 190
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd6363840077671336af"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366d"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133614"
+  },
+  "screen": "Screen 1",
+  "showTime": "11:00 AM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 240,
+    "silver": 140
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd6363840077671336b0"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366d"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133615"
+  },
+  "screen": "Screen 2",
+  "showTime": "3:00 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 270,
+    "silver": 160
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd6363840077671336b1"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366d"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133616"
+  },
+  "screen": "Screen 1",
+  "showTime": "7:30 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd6363840077671336b2"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366e"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133617"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:00 AM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 280,
+    "silver": 160
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd6363840077671336b3"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366e"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133618"
+  },
+  "screen": "Screen 2",
+  "showTime": "4:30 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 310,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd6363840077671336b4"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366e"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133619"
+  },
+  "screen": "Screen 1",
+  "showTime": "9:00 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 340,
+    "silver": 200
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd6363840077671336b5"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366f"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360b"
+  },
+  "screen": "Screen 1",
+  "showTime": "12:00 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 350,
+    "silver": 200
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd6363840077671336b6"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133670"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360c"
+  },
+  "screen": "Screen 2",
+  "showTime": "3:30 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 320,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd6363840077671336b7"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133671"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360d"
+  },
+  "screen": "Screen 1",
+  "showTime": "7:00 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 330,
+    "silver": 190
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd6363840077671336b8"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133672"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360e"
+  },
+  "screen": "Screen 2",
+  "showTime": "8:30 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 340,
+    "silver": 200
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bd6363840077671336b9"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133673"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360f"
+  },
+  "screen": "Screen 1",
+  "showTime": "9:30 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 360,
+    "silver": 210
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336bb"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133665"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360b"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:00 AM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 250,
+    "silver": 150
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336bc"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133665"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360c"
+  },
+  "screen": "Screen 2",
+  "showTime": "2:00 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336bd"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133665"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360d"
+  },
+  "screen": "Screen 1",
+  "showTime": "6:00 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 320,
+    "silver": 190
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336be"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133666"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360e"
+  },
+  "screen": "Screen 1",
+  "showTime": "11:00 AM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 240,
+    "silver": 140
+  },
+  "seatsAvailable": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336bf"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133666"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360f"
+  },
+  "screen": "Screen 2",
+  "showTime": "3:00 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 280,
+    "silver": 160
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336c0"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133666"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133610"
+  },
+  "screen": "Screen 1",
+  "showTime": "7:00 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 95,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336c1"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133667"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133611"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:30 AM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 260,
+    "silver": 150
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336c2"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133667"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133612"
+  },
+  "screen": "Screen 2",
+  "showTime": "1:30 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 290,
+    "silver": 170
+  },
+  "seatsAvailable": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336c3"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133667"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133613"
+  },
+  "screen": "Screen 3",
+  "showTime": "6:30 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 320,
+    "silver": 190
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336c4"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133668"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133614"
+  },
+  "screen": "Screen 1",
+  "showTime": "9:30 AM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 270,
+    "silver": 160
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336c5"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133668"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133615"
+  },
+  "screen": "Screen 2",
+  "showTime": "3:30 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 310,
+    "silver": 190
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336c6"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133668"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133616"
+  },
+  "screen": "Screen 1",
+  "showTime": "8:30 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 340,
+    "silver": 200
+  },
+  "seatsAvailable": 95,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336c7"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133669"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133617"
+  },
+  "screen": "Screen 1",
+  "showTime": "12:00 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 250,
+    "silver": 150
+  },
+  "seatsAvailable": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336c8"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133669"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133618"
+  },
+  "screen": "Screen 2",
+  "showTime": "4:00 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 280,
+    "silver": 170
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336c9"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133669"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133619"
+  },
+  "screen": "Screen 1",
+  "showTime": "9:00 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336ca"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366a"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360b"
+  },
+  "screen": "Screen 3",
+  "showTime": "10:00 AM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 260,
+    "silver": 150
+  },
+  "seatsAvailable": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336cb"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366a"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360c"
+  },
+  "screen": "Screen 1",
+  "showTime": "5:00 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336cc"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366a"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360d"
+  },
+  "screen": "Screen 2",
+  "showTime": "9:30 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 320,
+    "silver": 190
+  },
+  "seatsAvailable": 95,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336cd"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366b"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360e"
+  },
+  "screen": "Screen 1",
+  "showTime": "11:00 AM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 250,
+    "silver": 140
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336ce"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366b"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360f"
+  },
+  "screen": "Screen 2",
+  "showTime": "6:00 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336cf"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366b"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133610"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:00 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 330,
+    "silver": 200
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336d0"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366c"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133611"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:30 AM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 260,
+    "silver": 150
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336d1"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366c"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133612"
+  },
+  "screen": "Screen 2",
+  "showTime": "4:00 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 290,
+    "silver": 170
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336d2"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366c"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133613"
+  },
+  "screen": "Screen 3",
+  "showTime": "9:30 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 320,
+    "silver": 190
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336d3"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366d"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133614"
+  },
+  "screen": "Screen 1",
+  "showTime": "11:00 AM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 240,
+    "silver": 140
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336d4"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366d"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133615"
+  },
+  "screen": "Screen 2",
+  "showTime": "3:00 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 270,
+    "silver": 160
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336d5"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366d"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133616"
+  },
+  "screen": "Screen 1",
+  "showTime": "7:30 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336d6"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366e"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133617"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:00 AM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 280,
+    "silver": 160
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336d7"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366e"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133618"
+  },
+  "screen": "Screen 2",
+  "showTime": "4:30 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 310,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336d8"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366e"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133619"
+  },
+  "screen": "Screen 1",
+  "showTime": "9:00 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 340,
+    "silver": 200
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336d9"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366f"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360b"
+  },
+  "screen": "Screen 1",
+  "showTime": "12:00 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 350,
+    "silver": 200
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336da"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133670"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360c"
+  },
+  "screen": "Screen 2",
+  "showTime": "3:30 PM",
+  "date": "2026-04-18",
+  "pricing": {
+    "gold": 320,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336db"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133671"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360d"
+  },
+  "screen": "Screen 1",
+  "showTime": "7:00 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 330,
+    "silver": 190
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336dc"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133672"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360e"
+  },
+  "screen": "Screen 2",
+  "showTime": "8:30 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 340,
+    "silver": 200
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0bee763840077671336dd"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133673"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360f"
+  },
+  "screen": "Screen 1",
+  "showTime": "9:30 PM",
+  "date": "2026-04-19",
+  "pricing": {
+    "gold": 360,
+    "silver": 210
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336de"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133665"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360b"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:00 AM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 250,
+    "silver": 150
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336df"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133665"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360c"
+  },
+  "screen": "Screen 2",
+  "showTime": "2:00 PM",
+  "date": "2026-04-22",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336e0"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133665"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360d"
+  },
+  "screen": "Screen 1",
+  "showTime": "6:00 PM",
+  "date": "2026-04-23",
+  "pricing": {
+    "gold": 320,
+    "silver": 190
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336e1"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133666"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360e"
+  },
+  "screen": "Screen 1",
+  "showTime": "11:00 AM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 240,
+    "silver": 140
+  },
+  "seatsAvailable": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336e2"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133666"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360f"
+  },
+  "screen": "Screen 2",
+  "showTime": "3:00 PM",
+  "date": "2026-04-22",
+  "pricing": {
+    "gold": 280,
+    "silver": 160
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336e3"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133666"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133610"
+  },
+  "screen": "Screen 1",
+  "showTime": "7:00 PM",
+  "date": "2026-04-23",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 95,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336e4"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133667"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133611"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:30 AM",
+  "date": "2026-04-20",
+  "pricing": {
+    "gold": 260,
+    "silver": 150
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336e5"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133667"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133612"
+  },
+  "screen": "Screen 2",
+  "showTime": "1:30 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 290,
+    "silver": 170
+  },
+  "seatsAvailable": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336e6"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133667"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133613"
+  },
+  "screen": "Screen 3",
+  "showTime": "6:30 PM",
+  "date": "2026-04-22",
+  "pricing": {
+    "gold": 320,
+    "silver": 190
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336e7"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133668"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133614"
+  },
+  "screen": "Screen 1",
+  "showTime": "9:30 AM",
+  "date": "2026-04-20",
+  "pricing": {
+    "gold": 270,
+    "silver": 160
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336e8"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133668"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133615"
+  },
+  "screen": "Screen 2",
+  "showTime": "3:30 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 310,
+    "silver": 190
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336e9"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133668"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133616"
+  },
+  "screen": "Screen 1",
+  "showTime": "8:30 PM",
+  "date": "2026-04-22",
+  "pricing": {
+    "gold": 340,
+    "silver": 200
+  },
+  "seatsAvailable": 95,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336ea"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133669"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133617"
+  },
+  "screen": "Screen 1",
+  "showTime": "12:00 PM",
+  "date": "2026-04-20",
+  "pricing": {
+    "gold": 250,
+    "silver": 150
+  },
+  "seatsAvailable": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336eb"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133669"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133618"
+  },
+  "screen": "Screen 2",
+  "showTime": "4:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 280,
+    "silver": 170
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336ec"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133669"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133619"
+  },
+  "screen": "Screen 1",
+  "showTime": "9:00 PM",
+  "date": "2026-04-22",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336ed"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366a"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360b"
+  },
+  "screen": "Screen 3",
+  "showTime": "10:00 AM",
+  "date": "2026-04-20",
+  "pricing": {
+    "gold": 260,
+    "silver": 150
+  },
+  "seatsAvailable": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336ee"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366a"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360c"
+  },
+  "screen": "Screen 1",
+  "showTime": "5:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336ef"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366a"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360d"
+  },
+  "screen": "Screen 2",
+  "showTime": "9:30 PM",
+  "date": "2026-04-22",
+  "pricing": {
+    "gold": 320,
+    "silver": 190
+  },
+  "seatsAvailable": 95,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336f0"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366b"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360e"
+  },
+  "screen": "Screen 1",
+  "showTime": "11:00 AM",
+  "date": "2026-04-20",
+  "pricing": {
+    "gold": 250,
+    "silver": 140
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336f1"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366b"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360f"
+  },
+  "screen": "Screen 2",
+  "showTime": "6:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336f2"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366b"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133610"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 330,
+    "silver": 200
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336f3"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366c"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133611"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:30 AM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 260,
+    "silver": 150
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336f4"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366c"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133612"
+  },
+  "screen": "Screen 2",
+  "showTime": "4:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 290,
+    "silver": 170
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336f5"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366c"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133613"
+  },
+  "screen": "Screen 3",
+  "showTime": "9:30 PM",
+  "date": "2026-04-22",
+  "pricing": {
+    "gold": 320,
+    "silver": 190
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336f6"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366d"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133614"
+  },
+  "screen": "Screen 1",
+  "showTime": "11:00 AM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 240,
+    "silver": 140
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336f7"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366d"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133615"
+  },
+  "screen": "Screen 2",
+  "showTime": "3:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 270,
+    "silver": 160
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336f8"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366d"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133616"
+  },
+  "screen": "Screen 1",
+  "showTime": "7:30 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336f9"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366e"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133617"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:00 AM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 280,
+    "silver": 160
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336fa"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366e"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133618"
+  },
+  "screen": "Screen 2",
+  "showTime": "4:30 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 310,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336fb"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366e"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133619"
+  },
+  "screen": "Screen 1",
+  "showTime": "9:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 340,
+    "silver": 200
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336fc"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366f"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360b"
+  },
+  "screen": "Screen 1",
+  "showTime": "12:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 350,
+    "silver": 200
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336fd"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133670"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360c"
+  },
+  "screen": "Screen 2",
+  "showTime": "3:30 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 320,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336fe"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133671"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360d"
+  },
+  "screen": "Screen 1",
+  "showTime": "7:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 330,
+    "silver": 190
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b63840077671336ff"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133672"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360e"
+  },
+  "screen": "Screen 2",
+  "showTime": "8:30 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 340,
+    "silver": 200
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c03b6384007767133700"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133673"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360f"
+  },
+  "screen": "Screen 1",
+  "showTime": "9:30 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 360,
+    "silver": 210
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a6384007767133701"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133665"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360b"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:00 AM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 250,
+    "silver": 150
+  },
+  "seatsAvailable": 83,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a6384007767133702"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133665"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360c"
+  },
+  "screen": "Screen 2",
+  "showTime": "2:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a6384007767133703"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133665"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360d"
+  },
+  "screen": "Screen 1",
+  "showTime": "6:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 320,
+    "silver": 190
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a6384007767133704"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133666"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360e"
+  },
+  "screen": "Screen 1",
+  "showTime": "11:00 AM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 240,
+    "silver": 140
+  },
+  "seatsAvailable": 107,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a6384007767133705"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133666"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360f"
+  },
+  "screen": "Screen 2",
+  "showTime": "3:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 280,
+    "silver": 160
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a6384007767133706"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133666"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133610"
+  },
+  "screen": "Screen 1",
+  "showTime": "7:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 92,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a6384007767133707"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133667"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133611"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:30 AM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 260,
+    "silver": 150
+  },
+  "seatsAvailable": 94,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a6384007767133708"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133667"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133612"
+  },
+  "screen": "Screen 2",
+  "showTime": "1:30 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 290,
+    "silver": 170
+  },
+  "seatsAvailable": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a6384007767133709"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133667"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133613"
+  },
+  "screen": "Screen 3",
+  "showTime": "6:30 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 320,
+    "silver": 190
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a638400776713370a"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133668"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133614"
+  },
+  "screen": "Screen 1",
+  "showTime": "9:30 AM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 270,
+    "silver": 160
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a638400776713370b"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133668"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133615"
+  },
+  "screen": "Screen 2",
+  "showTime": "3:30 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 310,
+    "silver": 190
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a638400776713370c"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133668"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133616"
+  },
+  "screen": "Screen 1",
+  "showTime": "8:30 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 340,
+    "silver": 200
+  },
+  "seatsAvailable": 95,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a638400776713370d"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133669"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133617"
+  },
+  "screen": "Screen 1",
+  "showTime": "12:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 250,
+    "silver": 150
+  },
+  "seatsAvailable": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a638400776713370e"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133669"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133618"
+  },
+  "screen": "Screen 2",
+  "showTime": "4:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 280,
+    "silver": 170
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a638400776713370f"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133669"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133619"
+  },
+  "screen": "Screen 1",
+  "showTime": "9:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a6384007767133710"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366a"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360b"
+  },
+  "screen": "Screen 3",
+  "showTime": "10:00 AM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 260,
+    "silver": 150
+  },
+  "seatsAvailable": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a6384007767133711"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366a"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360c"
+  },
+  "screen": "Screen 1",
+  "showTime": "5:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a6384007767133712"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366a"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360d"
+  },
+  "screen": "Screen 2",
+  "showTime": "9:30 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 320,
+    "silver": 190
+  },
+  "seatsAvailable": 95,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a6384007767133713"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366b"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360e"
+  },
+  "screen": "Screen 1",
+  "showTime": "11:00 AM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 250,
+    "silver": 140
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a6384007767133714"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366b"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360f"
+  },
+  "screen": "Screen 2",
+  "showTime": "6:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a6384007767133715"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366b"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133610"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 330,
+    "silver": 200
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a6384007767133716"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366c"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133611"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:30 AM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 260,
+    "silver": 150
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a6384007767133717"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366c"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133612"
+  },
+  "screen": "Screen 2",
+  "showTime": "4:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 290,
+    "silver": 170
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a6384007767133718"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366c"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133613"
+  },
+  "screen": "Screen 3",
+  "showTime": "9:30 PM",
+  "date": "2026-04-22",
+  "pricing": {
+    "gold": 320,
+    "silver": 190
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a6384007767133719"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366d"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133614"
+  },
+  "screen": "Screen 1",
+  "showTime": "11:00 AM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 240,
+    "silver": 140
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a638400776713371a"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366d"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133615"
+  },
+  "screen": "Screen 2",
+  "showTime": "3:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 270,
+    "silver": 160
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a638400776713371b"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366d"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133616"
+  },
+  "screen": "Screen 1",
+  "showTime": "7:30 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a638400776713371c"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366e"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133617"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:00 AM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 280,
+    "silver": 160
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a638400776713371d"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366e"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133618"
+  },
+  "screen": "Screen 2",
+  "showTime": "4:30 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 310,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a638400776713371e"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366e"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133619"
+  },
+  "screen": "Screen 1",
+  "showTime": "9:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 340,
+    "silver": 200
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a638400776713371f"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366f"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360b"
+  },
+  "screen": "Screen 1",
+  "showTime": "12:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 350,
+    "silver": 200
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a6384007767133720"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133670"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360c"
+  },
+  "screen": "Screen 2",
+  "showTime": "3:30 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 320,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a6384007767133721"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133671"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360d"
+  },
+  "screen": "Screen 1",
+  "showTime": "7:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 330,
+    "silver": 190
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a6384007767133722"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133672"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360e"
+  },
+  "screen": "Screen 2",
+  "showTime": "8:30 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 340,
+    "silver": 200
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c08a6384007767133723"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133673"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360f"
+  },
+  "screen": "Screen 1",
+  "showTime": "9:30 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 360,
+    "silver": 210
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e638400776713372e"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133665"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360b"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:00 AM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 250,
+    "silver": 150
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e638400776713372f"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133665"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360c"
+  },
+  "screen": "Screen 2",
+  "showTime": "2:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e6384007767133730"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133665"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360d"
+  },
+  "screen": "Screen 1",
+  "showTime": "6:00 PM",
+  "date": "2026-04-22",
+  "pricing": {
+    "gold": 320,
+    "silver": 190
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e6384007767133731"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133665"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360e"
+  },
+  "screen": "Screen 1",
+  "showTime": "9:00 PM",
+  "date": "2026-04-23",
+  "pricing": {
+    "gold": 330,
+    "silver": 200
+  },
+  "seatsAvailable": 95,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e6384007767133732"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133666"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360f"
+  },
+  "screen": "Screen 1",
+  "showTime": "11:00 AM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 240,
+    "silver": 140
+  },
+  "seatsAvailable": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e6384007767133733"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133666"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133610"
+  },
+  "screen": "Screen 2",
+  "showTime": "3:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 280,
+    "silver": 160
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e6384007767133734"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133666"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133611"
+  },
+  "screen": "Screen 1",
+  "showTime": "7:00 PM",
+  "date": "2026-04-22",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 95,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e6384007767133735"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133666"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133612"
+  },
+  "screen": "Screen 1",
+  "showTime": "9:30 PM",
+  "date": "2026-04-23",
+  "pricing": {
+    "gold": 310,
+    "silver": 190
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e6384007767133736"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133667"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133613"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:30 AM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 260,
+    "silver": 150
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e6384007767133737"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133667"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133614"
+  },
+  "screen": "Screen 2",
+  "showTime": "1:30 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 290,
+    "silver": 170
+  },
+  "seatsAvailable": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e6384007767133738"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133667"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133615"
+  },
+  "screen": "Screen 3",
+  "showTime": "6:30 PM",
+  "date": "2026-04-22",
+  "pricing": {
+    "gold": 320,
+    "silver": 190
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e6384007767133739"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133667"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133616"
+  },
+  "screen": "Screen 1",
+  "showTime": "9:00 PM",
+  "date": "2026-04-23",
+  "pricing": {
+    "gold": 330,
+    "silver": 200
+  },
+  "seatsAvailable": 95,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e638400776713373a"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133668"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133617"
+  },
+  "screen": "Screen 1",
+  "showTime": "9:30 AM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 270,
+    "silver": 160
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e638400776713373b"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133668"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133618"
+  },
+  "screen": "Screen 2",
+  "showTime": "3:30 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 310,
+    "silver": 190
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e638400776713373c"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133668"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133619"
+  },
+  "screen": "Screen 1",
+  "showTime": "8:30 PM",
+  "date": "2026-04-22",
+  "pricing": {
+    "gold": 340,
+    "silver": 200
+  },
+  "seatsAvailable": 95,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e638400776713373d"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133668"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360b"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:30 PM",
+  "date": "2026-04-23",
+  "pricing": {
+    "gold": 350,
+    "silver": 210
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e638400776713373e"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133669"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360c"
+  },
+  "screen": "Screen 1",
+  "showTime": "12:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 250,
+    "silver": 150
+  },
+  "seatsAvailable": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e638400776713373f"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133669"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360d"
+  },
+  "screen": "Screen 2",
+  "showTime": "4:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 280,
+    "silver": 170
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e6384007767133740"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133669"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360e"
+  },
+  "screen": "Screen 1",
+  "showTime": "9:00 PM",
+  "date": "2026-04-22",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e6384007767133741"
+  },
+  "movieId": {
+    "$oid": "69e0bb036384007767133669"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360f"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:30 PM",
+  "date": "2026-04-23",
+  "pricing": {
+    "gold": 310,
+    "silver": 190
+  },
+  "seatsAvailable": 95,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e6384007767133742"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366a"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133610"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:00 AM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 260,
+    "silver": 150
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e6384007767133743"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366a"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133611"
+  },
+  "screen": "Screen 2",
+  "showTime": "2:30 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 290,
+    "silver": 170
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e6384007767133744"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366a"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133612"
+  },
+  "screen": "Screen 1",
+  "showTime": "6:30 PM",
+  "date": "2026-04-22",
+  "pricing": {
+    "gold": 310,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e6384007767133745"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366a"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133613"
+  },
+  "screen": "Screen 1",
+  "showTime": "9:30 PM",
+  "date": "2026-04-23",
+  "pricing": {
+    "gold": 320,
+    "silver": 190
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e6384007767133746"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366b"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133614"
+  },
+  "screen": "Screen 1",
+  "showTime": "11:00 AM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 250,
+    "silver": 140
+  },
+  "seatsAvailable": 97,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e6384007767133747"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366b"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133615"
+  },
+  "screen": "Screen 2",
+  "showTime": "3:30 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 280,
+    "silver": 160
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e6384007767133748"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366b"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133616"
+  },
+  "screen": "Screen 1",
+  "showTime": "7:30 PM",
+  "date": "2026-04-22",
+  "pricing": {
+    "gold": 300,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e6384007767133749"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366b"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133617"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:00 PM",
+  "date": "2026-04-23",
+  "pricing": {
+    "gold": 320,
+    "silver": 190
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e638400776713374a"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366c"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133618"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:30 AM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 260,
+    "silver": 150
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e638400776713374b"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366c"
+  },
+  "theatreId": {
+    "$oid": "69e0ba736384007767133619"
+  },
+  "screen": "Screen 2",
+  "showTime": "4:00 PM",
+  "date": "2026-04-21",
+  "pricing": {
+    "gold": 290,
+    "silver": 170
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e638400776713374c"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366c"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360b"
+  },
+  "screen": "Screen 1",
+  "showTime": "8:30 PM",
+  "date": "2026-04-22",
+  "pricing": {
+    "gold": 310,
+    "silver": 180
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e0c65e638400776713374d"
+  },
+  "movieId": {
+    "$oid": "69e0bb03638400776713366c"
+  },
+  "theatreId": {
+    "$oid": "69e0ba73638400776713360c"
+  },
+  "screen": "Screen 1",
+  "showTime": "10:30 PM",
+  "date": "2026-04-23",
+  "pricing": {
+    "gold": 330,
+    "silver": 190
+  },
+  "seatsAvailable": 100,
+  "__v": 0
+}]
